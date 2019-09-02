@@ -1,0 +1,4 @@
+人工智能第一步：
+矩阵的学习，numpy库的熟练使用。
+numpy.array是重点生成一个array数组，类型需要一致
+array的方法
